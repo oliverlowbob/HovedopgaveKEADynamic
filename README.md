@@ -20,6 +20,11 @@ $ # Install requirements.txt
 $ pip install -r requirements.txt
 ```
 
+```shell
+$ # To run
+$ uvicorn main:app --reload
+```
+
 ## Project Guidelines
 Please adhere as much as possible to the guidelines
 * [Git flow (Creating branches/pull request)](docs/git-flow.md)
