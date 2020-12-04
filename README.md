@@ -16,6 +16,8 @@ the project further:
 ```shell
 $ # Clone the project
 $ git clone https://github.com/oliverlowbob/HovedopgaveKEADynamic
+$ # Install requirements.txt
+$ pip install -r requirements.txt
 ```
 
 ## Project Guidelines
